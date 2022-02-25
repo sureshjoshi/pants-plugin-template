@@ -1,8 +1,8 @@
-# pants-plugin
+# pants-plugin-template
 
-A small selection of custom PantsBuild plugins
+A barebones in-repo Pants plugin template
 
-## Plugins
+## How do I use it?
 
-- [mypyc](https://github.com/sureshjoshi/pants-plugins/blob/main/pants-plugins/experimental/mypyc/README.md)
-- [PyOxidizer](https://github.com/sureshjoshi/pants-plugins/blob/main/pants-plugins/experimental/pyoxidizer/README.md)
+
+
